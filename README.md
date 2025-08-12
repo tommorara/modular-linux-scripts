@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ Modular Linux Scriptsx</h1>
+<h1 align="center">🛠️ Modular Linux Scripts</h1>
 
 <p align="center">
 A modular collection of Bash scripts, dotfiles, and utilities for Linux-based systems.<br>
