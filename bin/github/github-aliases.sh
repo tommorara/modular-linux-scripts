@@ -1,0 +1,22 @@
+# Git/GitHub Aliases
+alias pull='git pull'
+alias branch='git branch'
+alias checkout='git checkout'
+
+alias gacp='f() { file="$1"; message="${@:2}"; git add "$file" && git commit -m "$message" && git push; }; f'
+alias gs='git status'
+alias ga='git add'
+alias gaa='git add .'
+alias gb='git branch'
+alias gc='git commit -m'
+alias gca='git commit -a -m'
+alias gco='git checkout'
+alias gcm='git checkout main'
+alias gcb='git checkout -b'
+alias gd='git diff'
+alias gl='git log --oneline --graph --all'
+alias gp='git push'
+alias gpo='git push origin'
+alias gpl='git pull'
+alias gplr='git pull --rebase'
+
